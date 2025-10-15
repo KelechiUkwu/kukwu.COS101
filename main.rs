@@ -1,9 +1,9 @@
 fn main() {
-    let result = 10.00;     //i32 by default
-    let age:u32 =20;
-    let sum:i32 = 5-15;
-
-    println!("Result value is {} ",result);
-    println!("Age is {} ",age);
-    println!("Sum is {} ",sum);
+    let result =10.00;           //f64 by default
+    let interest:f32 =8.35;
+    let cost:f64 = 15_000.00;   //double precision
+    
+    println!("result value is {}",result);
+    println!("=interest is {}",interest);
+    println!("cost is {}",cost);
 }
