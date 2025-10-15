@@ -1,13 +1,9 @@
 fn main() {
-	let school_string = "School of Science and Technology";  // string type
-	let rating_float = 5.0;                                  // float type
-	let is_growing_boolean  = true;                         // boolean type
-	let department_integer = 3.0;                           // integer type
+    let result = 10.00;     //i32 by default
+    let age:u32 =20;
+    let sum:i32 = 5-15;
 
-
-	println!("School name is: {}",school_string);
-	println!("School rating on 5 is: {}",rating_floatS);
-	println!("School is growing : {}",is_growing_boolean);
-
-	println!("Number of Departments : {}",department_integer);
+    println!("Result value is {} ",result);
+    println!("Age is {} ",age);
+    println!("Sum is {} ",sum);
 }
