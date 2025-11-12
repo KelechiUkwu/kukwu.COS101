@@ -1,0 +1,5 @@
+C:\Users\kk\Documents\kukwu.COS101\week 4\practice_4\target\debug\deps\practice_3.d: src\main.rs
+
+C:\Users\kk\Documents\kukwu.COS101\week 4\practice_4\target\debug\deps\practice_3.exe: src\main.rs
+
+src\main.rs:
